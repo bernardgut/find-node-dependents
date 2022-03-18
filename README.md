@@ -11,7 +11,7 @@ https://github.com/advisories/GHSA-97m3-w2cp-4xx6
 
 I managed to run this up to a thousand deps before the API kicked me out (DDoS protection). Turns out the impact is very large (Vue, Unity, etc).
 
-#Usage
+# Usage
 1. Requires node/npm. Install following the official documentation
 
 2. clone and install dependencies
