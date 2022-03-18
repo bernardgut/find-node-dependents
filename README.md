@@ -6,6 +6,7 @@ Prints the node packageID along with the node package description. Originally me
 to track the **node-ipc supply chain attack  (CVE-2022-23812)**. 
 
 https://security.snyk.io/vuln/SNYK-JS-NODEIPC-2426370
+
 https://github.com/advisories/GHSA-97m3-w2cp-4xx6
 
 I managed to run this up to a thousand deps before the API kicked me out (DDoS protection). Turns out the impact is very large (Vue, Unity, etc).
